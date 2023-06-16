@@ -7,12 +7,12 @@ CatMate is a project that aims to address the issue of stray cat overpopulation 
 
 ## Team Members
 Here are the team members who have contributed to this project:
-| Team ID       | Name                            | Role                   | University                 | Contact    |
+| Student ID       | Name                            | Role                   | University                 | Contact    |
 |---------------|---------------------------------|------------------------|----------------------------------------|-----------|
-| C23-PC746     | Adrian Nugroho Pamungkas        | ML                     | Universitas Gadjah Mada               |[Github](https://github.com/dr14nium)|
+| M169DSX1436     | Adrian Nugroho Pamungkas        | ML                     | Universitas Gadjah Mada               |[Github](https://github.com/dr14nium)|
 | C23-PC746     | Ogi Hadicahyo                   | ML                     | Institut Teknologi Sepuluh November    |     |
-| C23-PC746     | Armadhani Hiro Juni Permana     | CC                     | Universitas Telkom                     |[Github](https://github.com/Israrafisidqi)|
-| C23-PC746     | Isra Rafi Sidqi                 | CC                     | University Gunadarma                    |[Github](https://github.com/armadhanihiro)|
+| C360DKX3979     | Armadhani Hiro Juni Permana     | CC                     | Universitas Telkom                     |[Github](https://github.com/Israrafisidqi)|
+| C172DSX4959     | Isra Rafi Sidqi                 | CC                     | University Gunadarma                    |[Github](https://github.com/armadhanihiro)|
 | C23-PC746     | Muhammad Arsyad Ikbar           | MD                     | Universitas Gadjah Mada                 |     |
 | C23-PC746     | Muhammad Adrisa NS              | ML                     | Universitas Nasional PASIM             |     |
 | C23-PC746     | Danny Ismarianto Ruhiyat        | CC                     | South Tangerang Institute of Technology|     |
